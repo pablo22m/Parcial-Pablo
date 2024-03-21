@@ -1,3 +1,3 @@
 ## Parcial do 1° Bimestre 
 
-Link: 
+![Foto do Figma](assets/ft-figma.PNG)
